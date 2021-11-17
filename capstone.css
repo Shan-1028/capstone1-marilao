@@ -1,27 +1,40 @@
 * {
 	margin: 0;
-	border: 0;
+	padding: 0;
+}
+
+html {
+	scroll-behavior: smooth;
 }
 body {
-	font-family: 'Estonia', cursive;
-	font-size: 50px;
-	background-color: #FC86EB ;
-}
-.navbar-brand {
-	font-weight: bold;
-	font-size: 70px;
-}
-#banner {
-	background-image: https://images.pexels.com/photos/205316/pexels-photo-205316.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940;
+	font-family: 'Montagu Slab', serif;
+	color: white;
+	font-size: 20px;
+	background-image: url(https://images.pexels.com/photos/5473951/pexels-photo-5473951.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-position: center;
+	background-position: center; 	
 }
-.About {
-	text-decoration: none;
-	text-align: right;
+.navbar {
+	color: white;
+	font-size: 30px;
+}
+#me {
+	height: 400px;
+	width:400px;
+}
+#intro {
+	color: yellow;
+	font-size: 50px;
+}
+h5 {
+	font-style: italic;
 }
 .fab {
-	font-size: 3rem;
-	color: hotpink;
+	font-size: 2rem;
+	color:skyblue;
+}
+#gmap_canvas {
+	height: 60vh;
+	width: 100%;
 }

@@ -1,0 +1,27 @@
+* {
+	margin: 0;
+	border: 0;
+}
+body {
+	font-family: 'Estonia', cursive;
+	font-size: 50px;
+	background-color: #FC86EB ;
+}
+.navbar-brand {
+	font-weight: bold;
+	font-size: 70px;
+}
+#banner {
+	background-image: https://images.pexels.com/photos/205316/pexels-photo-205316.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+.About {
+	text-decoration: none;
+	text-align: right;
+}
+.fab {
+	font-size: 3rem;
+	color: hotpink;
+}

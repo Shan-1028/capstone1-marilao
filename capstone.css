@@ -9,14 +9,15 @@ body {
 	font-family: 'Montagu Slab', serif;
 	color: white;
 	font-size: 20px;
-	background-image: url(https://images.pexels.com/photos/5473951/pexels-photo-5473951.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+	background-image: url(https://images.pexels.com/photos/1252869/pexels-photo-1252869.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-position: center; 	
+	background-position: center; 
+
 }
 .nav-link {
 		/*font-family: 'M PLUS Code Latin', sans-serif;;*/
-		font-size: 30px;
+		font-size: 35px;
 		
 }
 #me {

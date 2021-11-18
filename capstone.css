@@ -2,7 +2,6 @@
 	margin: 0;
 	padding: 0;
 }
-
 html {
 	scroll-behavior: smooth;
 }
@@ -15,13 +14,19 @@ body {
 	background-size: cover;
 	background-position: center; 	
 }
-.navbar {
-	color: white;
-	font-size: 30px;
+.nav-link {
+		/*font-family: 'M PLUS Code Latin', sans-serif;;*/
+		font-size: 30px;
+		
 }
+/*.nav-link:hover {
+	color: yellow;
+}
+*/
 #me {
 	height: 400px;
 	width:400px;
+	border-style: dotted;
 }
 #intro {
 	color: yellow;
@@ -31,10 +36,18 @@ h5 {
 	font-style: italic;
 }
 .fab {
-	font-size: 2rem;
+	margin-top: 0.5rem;
+	font-size: 1rem;
 	color:skyblue;
 }
 #gmap_canvas {
 	height: 60vh;
 	width: 100%;
+}
+footer {
+	padding: 0.7rem;
+}
+footer > span {
+	margin-left: 0.5rem;
+	margin-right: 0.5rem;
 }

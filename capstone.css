@@ -18,21 +18,38 @@ body {
 .nav-link {
 		/*font-family: 'M PLUS Code Latin', sans-serif;;*/
 		font-size: 35px;
-		
+		font-family: 'Arsenal', sans-serif;
+}
+.navbar {
+	color: yellow;
+}
+#about {
+	background-color: rgba(0, 255, 255, 0.2);
+	border-radius: 100px;
+	margin: 10px;
+	border-style: groove;
 }
 #me {
-	height: 400px;
-	width:400px;
+	height:300px;
+	width:300px;
 	border-style: dotted;
 }
 #intro {
 	color: yellow;
 	font-size: 50px;
+	text-align: left;
+
 }
 h5 {
 	font-style: italic;
 }
-.fab {
+.col-4 {
+	background-color: rgba(0, 255, 255, 0.2);
+	border-radius: 100px;
+	border-style: groove;
+}
+
+#contacts {
 	margin-top: 0.5rem;
 	font-size: 1rem;
 	color:skyblue;
@@ -47,4 +64,7 @@ footer {
 footer > span {
 	margin-left: 0.5rem;
 	margin-right: 0.5rem;
+}
+.card {
+	font-size: 10vw;
 }

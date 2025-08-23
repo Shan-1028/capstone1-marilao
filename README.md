@@ -51,8 +51,9 @@ capstone1-marilao/
 ## 🚀 Getting Started
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Shan-1028/capstone1-marilao.git
 Open the project
+       https://github.com/Shan-1028/personal-portfolio-website.git
+
 
 Navigate to the folder
 
